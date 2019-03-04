@@ -1,0 +1,21 @@
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\bin\Debug\AStar Pesi.exe.config
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\bin\Debug\AStar Pesi.exe
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\bin\Debug\AStar Pesi.pdb
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\bin\Debug\aiv-fast2d.dll
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\bin\Debug\OpenTK.dll
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\bin\Debug\OpenTK.xml
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\obj\Debug\AStar Pesi.csprojResolveAssemblyReference.cache
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\obj\Debug\AStar Pesi.csproj.CoreCompileInputs.cache
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\obj\Debug\AStar Pesi.exe
+C:\Users\tommaso\source\repos\AStar Pesi\AStar Pesi\obj\Debug\AStar Pesi.pdb
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\bin\Debug\AStar Pesi.exe.config
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\bin\Debug\AStar Pesi.exe
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\bin\Debug\AStar Pesi.pdb
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\bin\Debug\aiv-fast2d.dll
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\bin\Debug\OpenTK.dll
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\bin\Debug\OpenTK.xml
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\obj\Debug\AStar Pesi.csprojAssemblyReference.cache
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\obj\Debug\AStar Pesi.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\obj\Debug\AStar Pesi.csproj.CopyComplete
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\obj\Debug\AStar Pesi.exe
+C:\Users\Tommaso\source\repos\1Anno\AStar Pesi\AStar Pesi\obj\Debug\AStar Pesi.pdb
